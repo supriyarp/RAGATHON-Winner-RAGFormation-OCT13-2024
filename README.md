@@ -1,7 +1,10 @@
 # RAGFormation-RAGATHON-OCT13-2024
 
 Check dev branch for submitted version of RAGFormation
+#Tailored cloud solutions based on use case, cost, and preferences using Agentic AI to research, design, diagram, and report an optimized result.
 
+#YouTube
+https://youtu.be/BdW84JP1I1M
 ## Inspiration
 ## Breaking the Cloud Complexity Barrier: Accelerate Innovation with Automated Cloud Optimization
 In today's hyper-competitive landscape, businesses rely on cloud infrastructure not just to scale but to innovate at lightning speed. Yet, navigating the complex array of services across various cloud platforms often becomes a bottleneck. The process of selecting the right services, estimating costs, and designing architectures can stretch into weeks, wasting precious time and resources.
