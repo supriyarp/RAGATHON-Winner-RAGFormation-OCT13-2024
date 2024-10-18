@@ -3,7 +3,7 @@
 Check dev branch for submitted version of RAGFormation
 #Tailored cloud solutions based on use case, cost, and preferences using Agentic AI to research, design, diagram, and report an optimized result.
 
-#YouTube
+# YouTube
 https://youtu.be/BdW84JP1I1M
 ## Inspiration
 ## Breaking the Cloud Complexity Barrier: Accelerate Innovation with Automated Cloud Optimization
